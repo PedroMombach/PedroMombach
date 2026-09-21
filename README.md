@@ -10,7 +10,7 @@ elétrica, hidráulica e geotecnia.
 
 Este perfil reúne ferramentas que desenvolvi para tirar da rotina de projeto o
 que é repetitivo, de modo que a atenção fique na decisão de engenharia. Elas
-estão no [portfólio de engenharia](httpsgithub.comPedroMombachportfolio-engenharia),
+estão no [portfólio de engenharia](https://github.com/PedroMombach/portfolio-engenharia),
 cada uma com documentação e dados de exemplo.
 
-pdmombach@gmail.com · [LinkedIn](httpswww.linkedin.cominpedro-dias-mombach-8ba3bb24b) · Florianópolis, SC
+pdmombach@gmail.com · [LinkedIn](https://www.linkedin.com/in/pedro-dias-mombach-8ba3bb24b/) · Florianópolis, SC
